@@ -1,0 +1,26 @@
+{
+  "name": "internship-and-job-application-tracker",
+  "version": "1.0.0",
+  "description": "Full-stack Internship & Job Application Tracker for students and early-career job seekers",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "test:backend": "cd backend && npm test",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "prisma:generate": "cd backend && npx prisma generate",
+    "prisma:push": "cd backend && npx prisma db push"
+  },
+  "keywords": [
+    "internship",
+    "job-tracker",
+    "career",
+    "full-stack",
+    "nextjs",
+    "express",
+    "postgresql",
+    "prisma"
+  ],
+  "author": "",
+  "license": "ISC"
+}

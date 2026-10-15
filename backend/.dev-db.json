@@ -1,0 +1,1514 @@
+{
+  "users": [
+    {
+      "id": "usr_qtww0sd3",
+      "email": "alex_1790668419835@university.edu",
+      "passwordHash": "$2a$10$iWuhDkuDd3B7QPfUMdu6QeOfZmD4hNedj6snR8ge53IWyKgoSAyGe",
+      "fullName": "Alex Student",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T07:53:45.297Z",
+      "updatedAt": "2026-09-29T07:53:45.297Z"
+    },
+    {
+      "id": "usr_hk6r6n42",
+      "email": "alex_1790668419835@university.edu",
+      "passwordHash": "$2a$10$ZgaokQKpSlIj4kDjZQKPQ.Ee2gB6XrDvUdXmeVju2Jh7y8of2Kjb6",
+      "fullName": "Alex Student",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T07:53:45.305Z",
+      "updatedAt": "2026-09-29T07:53:45.305Z"
+    },
+    {
+      "id": "usr_hmj8o0yz",
+      "email": "jordan_1790668419835@university.edu",
+      "passwordHash": "$2a$10$UBzHqvK9y/NDgYJUKu71C.FQ0rCi9kIs/RMxypcsJWA8M.MMRn/HO",
+      "fullName": "Jordan Peer",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T07:53:45.642Z",
+      "updatedAt": "2026-09-29T07:53:45.642Z"
+    },
+    {
+      "id": "usr_quoqnart",
+      "email": "alex_1790668452748@university.edu",
+      "passwordHash": "$2a$10$9ymHvYc0vLbdz8qyGjFay.IhzsXOvLOOTgTO1A10xlzOZ34.Ijjay",
+      "fullName": "Alex Student",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T07:54:13.007Z",
+      "updatedAt": "2026-09-29T07:54:13.007Z"
+    },
+    {
+      "id": "usr_4vwqscjx",
+      "email": "jordan_1790668452748@university.edu",
+      "passwordHash": "$2a$10$Y1eFQzOLvdOo3T9kVHcKqu.cxf6uf4to6v2HpMOXtmYPBC/GneBAK",
+      "fullName": "Jordan Peer",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T07:54:13.334Z",
+      "updatedAt": "2026-09-29T07:54:13.334Z"
+    },
+    {
+      "id": "usr_grml15hy",
+      "email": "alex_1790669708279@university.edu",
+      "passwordHash": "$2a$10$9fqEqag07XfGfx.wPuvYOeYQEk4OWR5j1vTP1bg/pClEw7sH.rRuC",
+      "fullName": "Alex Student",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T08:15:08.436Z",
+      "updatedAt": "2026-09-29T08:15:08.436Z"
+    },
+    {
+      "id": "usr_wmv2qjb6",
+      "email": "jordan_1790669708279@university.edu",
+      "passwordHash": "$2a$10$C2OKlQgUR1tqYviO9Ujy/eMUYdR8/COvokCyU91.LxA4eP7xKEodq",
+      "fullName": "Jordan Peer",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T08:15:08.663Z",
+      "updatedAt": "2026-09-29T08:15:08.663Z"
+    },
+    {
+      "id": "usr_3ldzklib",
+      "email": "alex_1790670650946@university.edu",
+      "passwordHash": "$2a$10$46HLECAOgujd0nJECE10OeMrfdbpjeNGV5nwuAtio0oyykj3vkmgW",
+      "fullName": "Alex Student",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T08:30:53.096Z",
+      "updatedAt": "2026-09-29T08:30:53.096Z"
+    },
+    {
+      "id": "usr_inrb8rky",
+      "email": "jordan_1790670650946@university.edu",
+      "passwordHash": "$2a$10$lnIX2p6ksP/d8oIgL4j55OxLPoUtllSuqbpiidKWwzNtx6SQjlmhy",
+      "fullName": "Jordan Peer",
+      "avatarUrl": null,
+      "createdAt": "2026-09-29T08:30:53.308Z",
+      "updatedAt": "2026-09-29T08:30:53.308Z"
+    },
+    {
+      "id": "usr_pjw59onb",
+      "email": "alex_1792056688377@university.edu",
+      "passwordHash": "$2a$10$yx2J9KF8u.qwf115tJWlY.Dk7vnBchXWckd5yQEFlKg8q3BOd5l8a",
+      "fullName": "Alex Student",
+      "avatarUrl": null,
+      "createdAt": "2026-10-15T09:31:28.534Z",
+      "updatedAt": "2026-10-15T09:31:28.534Z"
+    },
+    {
+      "id": "usr_wwg63p3i",
+      "email": "jordan_1792056688377@university.edu",
+      "passwordHash": "$2a$10$xoBOacr8/qV/Xr95XhItSe1j10.bJGe3QFhLTh5gswrWDzB6FmGZe",
+      "fullName": "Jordan Peer",
+      "avatarUrl": null,
+      "createdAt": "2026-10-15T09:31:28.781Z",
+      "updatedAt": "2026-10-15T09:31:28.781Z"
+    },
+    {
+      "id": "usr_gi80i40a",
+      "email": "alex_1792056840851@university.edu",
+      "passwordHash": "$2a$10$b5X29S.C4plrhh8yl/k8CuhYMEDe0PvmRmGexBHM7NndezUD7SkLq",
+      "fullName": "Alex Student",
+      "avatarUrl": null,
+      "createdAt": "2026-10-15T09:34:00.978Z",
+      "updatedAt": "2026-10-15T09:34:00.978Z"
+    },
+    {
+      "id": "usr_7km5eofi",
+      "email": "jordan_1792056840851@university.edu",
+      "passwordHash": "$2a$10$g5PtWrglDWVOeNSoQn24GukHoALy7JkQbOvNG72j.t/D8EshF9RmG",
+      "fullName": "Jordan Peer",
+      "avatarUrl": null,
+      "createdAt": "2026-10-15T09:34:01.213Z",
+      "updatedAt": "2026-10-15T09:34:01.213Z"
+    },
+    {
+      "id": "usr_ox7nt7fg",
+      "email": "rntandoradebe14@gmail.com",
+      "passwordHash": "$2a$10$wv0SoQQjkpWa13OZTHsyV.5B5tSaeV1hCnSJ8cTw.IDGhjFjq1xCa",
+      "fullName": "Ntando",
+      "avatarUrl": null,
+      "createdAt": "2026-10-15T09:35:57.683Z",
+      "updatedAt": "2026-10-15T09:35:57.683Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app_wm5trpsh",
+      "userId": "usr_qtww0sd3",
+      "company": "Google",
+      "position": "Software Engineering Intern - 2025",
+      "location": "London, UK",
+      "status": "INTERVIEW",
+      "dateApplied": "2026-09-29T07:53:45.656Z",
+      "notes": "Received invitation for technical round 1.",
+      "jobUrl": "https://careers.google.com/jobs",
+      "salary": null,
+      "createdAt": "2026-09-29T07:53:45.666Z",
+      "updatedAt": "2026-09-29T07:53:45.717Z"
+    },
+    {
+      "id": "app_y83of5m3",
+      "userId": "usr_qtww0sd3",
+      "company": "Taxtalente.de",
+      "position": "Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "location": "Schopfheim",
+      "status": "APPLIED",
+      "dateApplied": "2026-09-29T07:53:46.091Z",
+      "notes": "Converted from saved job. Source: Arbeitnow Public Feed",
+      "jobUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-schopfheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-459033",
+      "salary": null,
+      "createdAt": "2026-09-29T07:53:46.091Z",
+      "updatedAt": "2026-09-29T07:53:46.092Z"
+    },
+    {
+      "id": "app_e5lbmf8a",
+      "userId": "usr_quoqnart",
+      "company": "Google",
+      "position": "Software Engineering Intern - 2025",
+      "location": "London, UK",
+      "status": "INTERVIEW",
+      "dateApplied": "2026-09-29T07:54:13.345Z",
+      "notes": "Received invitation for technical round 1.",
+      "jobUrl": "https://careers.google.com/jobs",
+      "salary": null,
+      "createdAt": "2026-09-29T07:54:13.354Z",
+      "updatedAt": "2026-09-29T07:54:13.397Z"
+    },
+    {
+      "id": "app_wj66ou6p",
+      "userId": "usr_quoqnart",
+      "company": "Taxtalente.de",
+      "position": "Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "location": "Schopfheim",
+      "status": "APPLIED",
+      "dateApplied": "2026-09-29T07:54:13.465Z",
+      "notes": "Converted from saved job. Source: Arbeitnow Public Feed",
+      "jobUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-schopfheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-459033",
+      "salary": null,
+      "createdAt": "2026-09-29T07:54:13.465Z",
+      "updatedAt": "2026-09-29T07:54:13.465Z"
+    },
+    {
+      "id": "app_cfl8htj9",
+      "userId": "usr_grml15hy",
+      "company": "Google",
+      "position": "Software Engineering Intern - 2025",
+      "location": "London, UK",
+      "status": "INTERVIEW",
+      "dateApplied": "2026-09-29T08:15:08.671Z",
+      "notes": "Received invitation for technical round 1.",
+      "jobUrl": "https://careers.google.com/jobs",
+      "salary": null,
+      "createdAt": "2026-09-29T08:15:08.693Z",
+      "updatedAt": "2026-09-29T08:15:08.725Z"
+    },
+    {
+      "id": "app_ep0leuau",
+      "userId": "usr_grml15hy",
+      "company": "Taxtalente.de",
+      "position": "Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "location": "Schopfheim",
+      "status": "APPLIED",
+      "dateApplied": "2026-09-29T08:15:08.769Z",
+      "notes": "Converted from saved job. Source: Arbeitnow Public Feed",
+      "jobUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-schopfheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-459033",
+      "salary": null,
+      "createdAt": "2026-09-29T08:15:08.769Z",
+      "updatedAt": "2026-09-29T08:15:08.769Z"
+    },
+    {
+      "id": "app_qzp34typ",
+      "userId": "usr_3ldzklib",
+      "company": "Google",
+      "position": "Software Engineering Intern - 2025",
+      "location": "London, UK",
+      "status": "INTERVIEW",
+      "dateApplied": "2026-09-29T08:30:53.313Z",
+      "notes": "Received invitation for technical round 1.",
+      "jobUrl": "https://careers.google.com/jobs",
+      "salary": null,
+      "createdAt": "2026-09-29T08:30:53.332Z",
+      "updatedAt": "2026-09-29T08:30:53.358Z"
+    },
+    {
+      "id": "app_93o95je5",
+      "userId": "usr_3ldzklib",
+      "company": "Taxtalente.de",
+      "position": "Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "location": "Schopfheim",
+      "status": "APPLIED",
+      "dateApplied": "2026-09-29T08:30:53.391Z",
+      "notes": "Converted from saved job. Source: Arbeitnow Public Feed",
+      "jobUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-schopfheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-459033",
+      "salary": null,
+      "createdAt": "2026-09-29T08:30:53.391Z",
+      "updatedAt": "2026-09-29T08:30:53.391Z"
+    },
+    {
+      "id": "app_h84m5wic",
+      "userId": "usr_pjw59onb",
+      "company": "Google",
+      "position": "Software Engineering Intern - 2025",
+      "location": "London, UK",
+      "status": "INTERVIEW",
+      "dateApplied": "2026-10-15T09:31:28.786Z",
+      "notes": "Received invitation for technical round 1.",
+      "jobUrl": "https://careers.google.com/jobs",
+      "salary": null,
+      "createdAt": "2026-10-15T09:31:28.791Z",
+      "updatedAt": "2026-10-15T09:31:28.818Z"
+    },
+    {
+      "id": "app_5h59dwdw",
+      "userId": "usr_gi80i40a",
+      "company": "Google",
+      "position": "Software Engineering Intern - 2025",
+      "location": "London, UK",
+      "status": "INTERVIEW",
+      "dateApplied": "2026-10-15T09:34:01.216Z",
+      "notes": "Received invitation for technical round 1.",
+      "jobUrl": "https://careers.google.com/jobs",
+      "salary": null,
+      "createdAt": "2026-10-15T09:34:01.220Z",
+      "updatedAt": "2026-10-15T09:34:01.246Z"
+    },
+    {
+      "id": "app_6l0uo30x",
+      "userId": "usr_gi80i40a",
+      "company": "SovTech",
+      "position": "Junior Software Developer - Fintech & Web",
+      "location": "Johannesburg / Remote South Africa",
+      "status": "APPLIED",
+      "dateApplied": "2026-10-15T09:34:01.301Z",
+      "notes": "Converted from saved job. Source: SovTech Careers",
+      "jobUrl": "https://www.sovtech.co.za/careers",
+      "salary": null,
+      "createdAt": "2026-10-15T09:34:01.301Z",
+      "updatedAt": "2026-10-15T09:34:01.301Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job_ew6ervga",
+      "title": "Senior Shopify Developer",
+      "company": "Sanctuary Computer Inc",
+      "location": "Remote (South Africa Eligible)",
+      "description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team.\nOriginal Job posting link here\n \n🌎About garden3d\nWe are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.\nOur client roster includes Google, Stripe, Figma, Hinge, Black ...",
+      "requirements": "Skills: admin, api, backend, CSS, frontend, fullstack",
+      "jobType": "ENTRY_LEVEL",
+      "closingDate": "2026-11-29T09:35:00.172Z",
+      "source": "Remotive Remote Feed",
+      "applicationUrl": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_ht1lbwe8",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies ",
+      "location": "Remote (South Africa Eligible)",
+      "description": "CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role.\n \nThe ideal candidate has excellent English writing skills, strong research ability, and experience writing content that follows detailed, client-specific guidelines. Projects commonly include category pages, product descriptions, blog posts, SEO landing pages, and website copy.\n \nAbout the Role\nOur cli...",
+      "requirements": "Skills: accounting, excel, research, data analysis, bookkeeping, google sheets",
+      "jobType": "ENTRY_LEVEL",
+      "closingDate": "2026-11-29T09:35:00.168Z",
+      "source": "Remotive Remote Feed",
+      "applicationUrl": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_yawsn628",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Remote (South Africa Eligible)",
+      "description": "Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n \nThe rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).\n \nSome topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expertise in a specific area, please let us know):\n \n\nHealth & beauty\nFitness\nHome Decor\nFashion\nSports\nDo...",
+      "requirements": "Skills: REST",
+      "jobType": "ENTRY_LEVEL",
+      "closingDate": "2026-11-29T09:35:00.168Z",
+      "source": "Remotive Remote Feed",
+      "applicationUrl": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_270h2gro",
+      "title": "Tier III Service Desk Engineer",
+      "company": "Unio Digital",
+      "location": "Remote (South Africa Eligible)",
+      "description": "Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be intuitive, not intimidating.\n \nWe are looking for an experienced Tier 3 Service Desk Technician with exceptional problem-solving skills. You will serve as the escalation point within the team, resolving complex technical issues while also leading client onboarding and project initiatives. Y...",
+      "requirements": "Skills: azure, cisco, security, video, documentation, hardware",
+      "jobType": "ENTRY_LEVEL",
+      "closingDate": "2026-11-29T09:35:00.167Z",
+      "source": "Remotive Remote Feed",
+      "applicationUrl": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_axl91kkb",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Remote (South Africa Eligible)",
+      "description": "About Us\nWe are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals.\nDuring our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sale...",
+      "requirements": "Skills: CRM, google sheets, financial services, Inside Sales",
+      "jobType": "ENTRY_LEVEL",
+      "closingDate": "2026-11-29T09:35:00.166Z",
+      "source": "Remotive Remote Feed",
+      "applicationUrl": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_ct3l0x9r",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies ",
+      "location": "Remote (South Africa Eligible)",
+      "description": "Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion, attention to detail, and a willingness to learn and grow within a fast-paced remote work environment.\nAs an Office Assistant, you will help support daily administrative operations, assist with entry-level bookkee...",
+      "requirements": "Skills: CSS, excel, frontend, git, html, illustrator",
+      "jobType": "ENTRY_LEVEL",
+      "closingDate": "2026-11-29T09:35:00.163Z",
+      "source": "Remotive Remote Feed",
+      "applicationUrl": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_y0gtpadj",
+      "title": "Intern Health and Safety Officer",
+      "company": "South African Employer",
+      "location": "PRETORIA, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.116Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5925191861?se=3ssJsHvI8RGs8N9b48Tq8A&title=Intern_Health_and_Safety_Officer&v=28E034693B5AA04BA3BB369B055BD41C107DAD3E",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_qo29tj13",
+      "title": "Reception / Administrator Internship",
+      "company": "South African Employer",
+      "location": "GQEBERHA, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.115Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5914920920?se=3ssJsHvI8RGs8N9b48Tq8A&title=Reception_%2F_Administrator_Internship&v=1BE1B66BCF443B7892827AE30FB1BE107D55271C",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_hlm1l6mp",
+      "title": "Cyber Security Internship",
+      "company": "South African Employer",
+      "location": "CAPE TOWN, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.115Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5886976004?se=3ssJsHvI8RGs8N9b48Tq8A&title=Cyber_Security_Internship&v=31CCC407442292132A7F0B3EFB98FD8B0939E42B",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_cc1qsz64",
+      "title": "Technical Apprentice",
+      "company": "South African Employer",
+      "location": "GEORGE, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.115Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5928334891?se=3ssJsHvI8RGs8N9b48Tq8A&title=Technical_Apprentice&v=FD4ECB2F97F01E2EF4BEE061821DA0DE82FC662A",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_y7p6qd2i",
+      "title": "Accounts Intern",
+      "company": "South African Employer",
+      "location": "SOMERSET WEST, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.115Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5921487485?se=3ssJsHvI8RGs8N9b48Tq8A&title=Accounts_Intern&v=E927EBEA5E2BB063264F1C930B8B776FCD8B0FC6",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_zohq2d8t",
+      "title": "Apprentice Technician",
+      "company": "South African Employer",
+      "location": "CAPE TOWN, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.115Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5913207227?se=3ssJsHvI8RGs8N9b48Tq8A&title=Apprentice_Technician&v=9A7625642C58C5F4EE19DD7F93330D57C632A42B",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_eggmf9hf",
+      "title": "IT Internship",
+      "company": "South African Employer",
+      "location": "PORT ELIZABETH, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.114Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5914921113?se=3ssJsHvI8RGs8N9b48Tq8A&title=IT_Internship&v=3007DD1BFCCDD16DD2893290E8CC4E76172BC611",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_z6m2cylo",
+      "title": "Payroll Intern",
+      "company": "South African Employer",
+      "location": "JOHANNESBURG, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.114Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5891223315?se=3ssJsHvI8RGs8N9b48Tq8A&title=Payroll_Intern&v=E50CBBBCAD2E15E80046BAD08FB86C33BE19E219",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_u82yooxx",
+      "title": "Accounting Internship",
+      "company": "South African Employer",
+      "location": "UMHLANGA, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.114Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5884148841?se=3ssJsHvI8RGs8N9b48Tq8A&title=Accounting_Internship&v=8DDCC3F8FF2DAC53041A12A58572901F8298A57B",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_rc3dbyo6",
+      "title": "Internship - Procurement Intern (Midrand)",
+      "company": "South African Employer",
+      "location": "MIDRAND, South Africa",
+      "description": "Exciting early-career opportunity in South Africa. Apply directly on employer portal.",
+      "requirements": "Relevant tertiary degree, diploma, or final-year student status. Strong drive to learn and work in a team.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.113Z",
+      "source": "Adzuna South Africa",
+      "applicationUrl": "https://www.adzuna.co.za/land/ad/5926560244?se=3ssJsHvI8RGs8N9b48Tq8A&title=Internship_-_Procurement_Intern_%28Midrand%29&v=8252A0BBC7D8F09627711A23EC7BC3DD4FB03630",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:35:00.173Z"
+    },
+    {
+      "id": "job_c4o9m247",
+      "title": "Junior Software Developer - Fintech & Web",
+      "company": "SovTech",
+      "location": "Johannesburg / Remote South Africa",
+      "description": "SovTech designs, builds, and scales mobile and cloud software for startups and global enterprises. Work with modern React, Node.js, AWS, and serverless stacks.",
+      "requirements": "Degree, diploma, or accredited coding bootcamp qualification. Working knowledge of JavaScript/TypeScript and Git.",
+      "jobType": "JUNIOR",
+      "closingDate": "2026-11-09T09:35:00.172Z",
+      "source": "SovTech Careers",
+      "applicationUrl": "https://www.sovtech.co.za/careers",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_3z0bjkq0",
+      "title": "Youth Tech Graduate Accelerator",
+      "company": "Nedbank",
+      "location": "Sandton, Gauteng, South Africa",
+      "description": "Nedbank's technology programme provides structured rotations through digital engineering, quantitative analytics, cybersecurity, and cloud migration.",
+      "requirements": "South African Citizen with a Bachelor's Degree in Computer Science, Software Engineering, or Quantitative disciplines.",
+      "jobType": "GRADUATE",
+      "closingDate": "2026-11-29T09:35:00.172Z",
+      "source": "Nedbank Careers Portal",
+      "applicationUrl": "https://jobs.nedbank.co.za",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_7fa1ny3i",
+      "title": "Derivco Software Development Internship",
+      "company": "Derivco",
+      "location": "Durban, KwaZulu-Natal, South Africa",
+      "description": "Join one of South Africa's premier technology and gaming platform hubs in Umhlanga, Durban. Build ultra-low-latency distributed systems and web applications.",
+      "requirements": "Studying towards or completed Degree/Diploma in Computer Science, Information Technology, or Software Engineering. Passion for C#, Java, or JavaScript.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-12-09T09:35:00.172Z",
+      "source": "Derivco Careers",
+      "applicationUrl": "https://www.derivco.co.za/careers",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_ls5lorxw",
+      "title": "Junior Cloud Infrastructure Associate",
+      "company": "BBD Software",
+      "location": "Johannesburg & Cape Town, South Africa",
+      "description": "Learn cloud automation, CI/CD, Kubernetes, and enterprise system integration. Work on diverse projects across banking, telecoms, and government sectors.",
+      "requirements": "Recent graduate with degree or diploma in IT, Computer Systems, or Computer Science. Basic understanding of Linux and cloud platforms.",
+      "jobType": "ENTRY_LEVEL",
+      "closingDate": "2026-11-24T09:35:00.172Z",
+      "source": "BBD Careers",
+      "applicationUrl": "https://bbdsoftware.com/careers",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_9zspva8u",
+      "title": "Discovery IT & Systems Graduate Scheme",
+      "company": "Discovery Limited",
+      "location": "Sandton, Johannesburg, South Africa",
+      "description": "Discovery Vitality & Digital Health engineering teams build world-first shared-value behavioral tech. Experience full software life-cycles and microservices in financial tech.",
+      "requirements": "Degree in Computer Science, Software Engineering, or Information Systems. High academic achievement and analytical mindset.",
+      "jobType": "GRADUATE",
+      "closingDate": "2026-12-19T09:35:00.172Z",
+      "source": "Discovery Careers ZA",
+      "applicationUrl": "https://www.discovery.co.za/corporate/careers",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_px9eeby2",
+      "title": "Software Engineering & Mobile Development Intern",
+      "company": "Retro Rabbit",
+      "location": "Pretoria & Johannesburg, South Africa",
+      "description": "Collaborate on cutting-edge design and engineering projects. Learn modern UI/UX design, Flutter, React, and backend cloud systems in a fast-paced creative consultancy.",
+      "requirements": "Enrolled in BSc/BTech Computer Science, Multimedia, or Informatics. Passion for software craftsmanship, clean code, and user experience.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-14T09:35:00.172Z",
+      "source": "Retro Rabbit Careers",
+      "applicationUrl": "https://www.retrorabbit.co.za/careers",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_5kodgmru",
+      "title": "Discover Graduate Trainee - Technology & Big Data",
+      "company": "Vodacom",
+      "location": "Midrand, Gauteng, South Africa",
+      "description": "Accelerate your career in telecommunications and tech. Gain hands-on experience in 5G networks, cloud computing, cybersecurity, and AI-driven customer products across Africa.",
+      "requirements": "South African Citizen. Completed undergraduate or postgraduate degree in Engineering, Computer Science, Data Analytics, or Information Technology within the last 12 months.",
+      "jobType": "GRADUATE",
+      "closingDate": "2026-11-19T09:35:00.172Z",
+      "source": "Vodacom Early Careers ZA",
+      "applicationUrl": "https://www.vodacom.co.za/vodacom/careers",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_t7q8qvn0",
+      "title": "Software Development Engineering Intern",
+      "company": "Amazon Web Services (AWS)",
+      "location": "Cape Town Development Centre, South Africa",
+      "description": "Amazon Development Centre South Africa (ADC) built the core of Amazon EC2. Interns work alongside world-class software engineers writing production cloud code deployed globally.",
+      "requirements": "Currently enrolled in a Bachelor's or Master's degree in Computer Science or Engineering. Knowledge of algorithms, data structures, and Object-Oriented Programming (Java/Python/C++).",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-12-04T09:35:00.172Z",
+      "source": "Amazon Jobs South Africa",
+      "applicationUrl": "https://www.amazon.jobs/en/locations/cape-town-south-africa",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_9u70zqzu",
+      "title": "Capitec Tech Academy Graduate Programme",
+      "company": "Capitec Bank",
+      "location": "Stellenbosch & Sandton, South Africa",
+      "description": "Join South Africa's most popular digital bank. Build user-centric digital banking solutions, mobile applications, APIs, and cloud services on AWS.",
+      "requirements": "Degree or Honours in Computer Science, Mathematical Science, or Information Technology. Academic record with minimum 65% aggregate.",
+      "jobType": "GRADUATE",
+      "closingDate": "2026-12-29T09:35:00.172Z",
+      "source": "Capitec Careers Portal",
+      "applicationUrl": "https://www.capitecbank.co.za/about-us/careers",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.262Z"
+    },
+    {
+      "id": "job_d0e2l9ol",
+      "title": "Junior Full-Stack Software Developer",
+      "company": "Takealot.com",
+      "location": "Cape Town, Western Cape, South Africa",
+      "description": "Work on South Africa's largest e-commerce platform. Develop scalable backend services and responsive client web applications handling millions of shopper transactions daily.",
+      "requirements": "Diploma or Degree in Computer Science or Software Development. Familiarity with React, Node.js, Python, or Go. Eagerness to build high-traffic web applications.",
+      "jobType": "JUNIOR",
+      "closingDate": "2026-11-24T09:35:00.172Z",
+      "source": "Takealot Careers",
+      "applicationUrl": "https://www.takealot.com/careers",
+      "isRemote": true,
+      "createdAt": "2026-10-15T09:34:01.261Z"
+    },
+    {
+      "id": "job_sz6nfsnz",
+      "title": "Information Technology & Data Science Internship",
+      "company": "Standard Bank South Africa",
+      "location": "Johannesburg, Gauteng, South Africa",
+      "description": "Standard Bank's Corporate & Investment Banking (CIB) internship offers exposure to enterprise cloud architecture, automated pipelines, cybersecurity, and digital banking platforms across Africa.",
+      "requirements": "South African Citizen. Currently completing final year or recently graduated with degree in Computer Science, Data Science, Information Systems, or Engineering.",
+      "jobType": "INTERNSHIP",
+      "closingDate": "2026-11-29T09:35:00.172Z",
+      "source": "Standard Bank Career Portal",
+      "applicationUrl": "https://www.standardbank.com/careers",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.261Z"
+    },
+    {
+      "id": "job_nyuqadgb",
+      "title": "Software Engineering Graduate Programme 2025/2026",
+      "company": "Entelect",
+      "location": "Johannesburg & Cape Town, South Africa",
+      "description": "Join South Africa's leading software engineering technology consultancy. Work on mission-critical solutions across banking, retail, and tech with comprehensive mentorship and accredited training.",
+      "requirements": "Final-year student or graduate with BSc/BEng in Computer Science, IT, Software Engineering or related. Strong problem-solving and coding aptitude in Java, C#, or TypeScript.",
+      "jobType": "GRADUATE",
+      "closingDate": "2026-12-14T09:35:00.172Z",
+      "source": "Entelect Careers ZA",
+      "applicationUrl": "https://www.entelect.co.za/careers",
+      "isRemote": false,
+      "createdAt": "2026-10-15T09:34:01.261Z"
+    },
+    {
+      "id": "job_3zatyjmj",
+      "title": "Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Schopfheim",
+      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung.\nSie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzlei an? Sie möchten endlich wieder in einem positiven Arbeitsumfeld arbeiten, in dem Sie finanziell und persönlich wertgeschätzt werden? Sie suchen nach Tätigkeiten, die Sie auch wirklich weiterbringen?\nSofern Sie sich in...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-schopfheim-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-459033",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_3igf2e21",
+      "title": "Steuerberater (m/w/d) in Bretzfeld, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Bretzfeld",
+      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung.\nSie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzlei an? Sie möchten endlich wieder in einem positiven Arbeitsumfeld arbeiten, in dem Sie finanziell und persönlich wertgeschätzt werden? Sie suchen nach Tätigkeiten, die Sie auch wirklich weiterbringen?\nSofern Sie sich in...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-bretzfeld-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-99730",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_g2523ptt",
+      "title": "Steuerberater (m/w/d) in Wedel, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Wedel",
+      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung.\nSie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzlei an? Sie möchten endlich wieder in einem positiven Arbeitsumfeld arbeiten, in dem Sie finanziell und persönlich wertgeschätzt werden? Sie suchen nach Tätigkeiten, die Sie auch wirklich weiterbringen?\nSofern Sie sich in...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-wedel-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-75550",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_gpzslmue",
+      "title": "Steuerberater (m/w/d) in Lauenau, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
+      "company": "Taxtalente.de",
+      "location": "Lauenau",
+      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung.\nSie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzlei an? Sie möchten endlich wieder in einem positiven Arbeitsumfeld arbeiten, in dem Sie finanziell und persönlich wertgeschätzt werden? Sie suchen nach Tätigkeiten, die Sie auch wirklich weiterbringen?\nSofern Sie sich in...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-lauenau-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-42287",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_42sj4zav",
+      "title": "Marketing Manager (m/w/d)  Brand, Content & E-Commerce · Vollzeit · Münster",
+      "company": "leevje GmbH",
+      "location": "Münster",
+      "description": "Zwei Marken. Viele Ideen. Und du bringst sie in die Umsetzung.\nleevje und I AM EDITIONS stehen für Mode, Ästhetik und eine starke Community. Während leevje seit vielen Jahren für besondere Kinderkollektionen steht, entwickeln wir mit I AM EDITIONS unsere Womenswear-Marke mit einem klaren, modernen und hochwertigen Look konsequent weiter.\nFür unser Team in Münster suchen wir ein echtes Organisationstalent mit Gespür für Fashion, Content und digitales Marketing.\nDu behältst den Überblick, übernimm...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/leevje-gmbh/marketing-manager-brand-content-e-commerce-vollzeit-munster-244881",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_bvfb4n4m",
+      "title": "Senior Analytics Engineer (Multiple Domains)",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "description": "About Wolt\nAt Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.Working at Wolt isn't always easy, but it's definitely exciting. Here you'll learn more, build m...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/wolt-english/senior-analytics-engineer-multiple-domains-berlin-287258",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_mcxma2k0",
+      "title": "Senior Engineering Manager, Ad Performance Recommendation",
+      "company": "Smartly",
+      "location": "Berlin, Berlin, Germany",
+      "description": "We are seeking a Senior Engineering Manager to join our 200+ product development organization and lead our Ad Performance Recommendation team. The team is responsible for developing an innovative AI-powered system that leverages marketing ad tech data and various data sources to identify performance signals and generate actionable recommendations for digital advertisers and marketers. \nAs part of the AI Platform organization, you will lead a multidisciplinary team of Data Scientists, ML Engineer...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/smartly/senior-engineering-manager-ad-performance-recommendation-berlin-136966",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_gjtd1bro",
+      "title": "Entwicklungsingenieur (m/w/d) Display/OLED-Technologie Automotive in Karlsruhe (1721)",
+      "company": "BRÜGGEN ENGINEERING GmbH",
+      "location": "Karlsruhe",
+      "description": "Ihre Karriere an der Schnittstelle von Elektronik und moderner Fahrzeugtechnik.\nMit BRÜGGEN ENGINEERING entwickeln Sie innovative Anzeige- und Bedienlösungen für die nächste Generation von Fahrzeugen. Sie übernehmen technische Verantwortung von der Anforderungsanalyse über die Auswahl geeigneter TFT-, LCD- und OLED-Technologien bis zur Integration, Validierung und Serienreife und arbeiten dabei eng mit Kunden, Lieferanten und internationalen Entwicklungsteams zusammen.\nAufgaben\n\nEntwicklung: Sie...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/entwicklungsingenieur-display-oled-technologie-automotive-in-karlsruhe-1721-486209",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_j2tuxijd",
+      "title": "Inhouse It Consultant / Systeminformatiker (m/w/d) - Am Standort Weingarten",
+      "company": "Kohnle & Partner",
+      "location": "Weingarten",
+      "description": "Alles, außer gewöhnlich. Wir stellen uns vor.\neit über 50 Jahren betreut Kohnle & Partner anspruchsvolle Mandate in allen wirtschaftlichen und steuerlichen Fragen. Mit inzwischen knapp 100 Mitarbeitenden an vier Standorten gehören wir zu den führenden Kanzleien in der Region Baden.\nDigitalisierung ist für uns kein Schlagwort, sondern gelebte Realität. Mit innovativen Tools, automatisierten Workflows und eigenen Inhouse‑IT‑Lösungen gehen wir weit über klassische Steuerberatung hinaus. Wir verbind...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/inhouse-it-consultant-systeminformatiker-am-standort-weingarten-391741",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_egkfd9zv",
+      "title": "Financial Analyst Transaction Services & FP&A (m/w/d)",
+      "company": "DTAD GmbH",
+      "location": "Cologne",
+      "description": "Für die Verbindung von Transaktionsarbeit und operativer Finanzplanung suchen wir ein analytisch starkes Financial Profil mit 3–6 Jahren Berufserfahrung in Transaction Services, Financial Due Diligence oder FP&A. Du bewertest Geschäftsmodelle, prüfst Umsatz- und Ergebnisannahmen und übersetzt Finanzdaten in belastbare Entscheidungsgrundlagen – mit besonderem Blick auf SaaS-Kennzahlen und die Zeit nach dem Closing.\nAufgaben\n\nDu entwickelst und überprüfst Bewertungsmodelle und erstellst unlevered-...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/dtad-gmbh/financial-analyst-transaction-services-fpa-cologne-122149",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_8golybrv",
+      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
+      "company": "Kohnle & Partner",
+      "location": "Karlsruhe",
+      "description": "Kohnle & Partner, die etwas andere Steuerkanzlei.\nModernste Technik, digitale Prozesse, dynamisches Wachstum, führende Experten, hochwertige Büros, überdurchschnittliche Bezahlung, ein hoch motiviertes Team und vieles mehr – wir reden nicht nur von Top-Arbeitsbedingungen, wir schaffen diese auch.\nDie besten Arbeitsbedingungen und unser dynamisches Team sind seit über 50 Jahren die Grundlage für den Erfolg unserer Kanzlei. Inzwischen sind wir eine der führenden Kanzleien in der Region Baden und s...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-karlsruhe-196438",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_flo3mvib",
+      "title": "Mitarbeiter (m/w/d) Autowaschstraße - Reinigung & Kundenservice - Quereinsteiger willkommen",
+      "company": "Autowaschmeile Halstenbek oHG",
+      "location": "Halstenbek",
+      "description": "Sie suchen eine abwechslungsreiche Arbeit in einem motivierten Team? Sie packen gerne mit an und haben Spaß am Umgang mit Kunden? Dann sind Sie bei uns genau richtig!\nDie Autowaschmeile Halstenbek oHG sucht ab sofort engagierte Mitarbeiter (m/w/d). Ob mit oder ohne Erfahrung – wichtig sind uns Motivation, Teamgeist und ein freundliches Auftreten.\nKommen Sie in unser Team und freuen Sie sich auf einen sicheren Job, jede Menge Abwechslung und top Trinkgeld!\nAufgaben\n\nmanuelle Vorwäsche der Fahrzeu...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.arbeitnow.com/jobs/companies/autowaschmeile-halstenbek-ohg/mitarbeiter-autowaschstrasse-reinigung-kundenservice-quereinsteiger-willkommen-halstenbek-498213",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    },
+    {
+      "id": "job_mz8q4yqr",
+      "title": "Software Engineer",
+      "company": "Preiswecker",
+      "location": "Berlin",
+      "description": "Preiswecker is a price comparison portal in Germany, helping thousands of users find the best deals online every day.We are looking for a Software Engineer to join our team and help build our price comparison platform.We are currently offering the following position:Software Engineer - Price comparison portalResponsibilitiesDesign, build, and maintain features for our price comparison platformDevelop and optimize data pipelines that process merchant price feedsWork closely with Product and BI to...",
+      "requirements": "Knowledge of modern web development, team collaboration, and willingness to learn.",
+      "jobType": "ENTRY_LEVEL",
+      "source": "Arbeitnow Public Feed",
+      "applicationUrl": "https://www.preiswecker.com/",
+      "isRemote": false,
+      "createdAt": "2026-09-29T07:53:46.062Z"
+    }
+  ],
+  "savedJobs": [
+    {
+      "id": "saved_amn1z7q1",
+      "userId": "usr_qtww0sd3",
+      "jobId": "job_3zatyjmj",
+      "notes": "Top target company",
+      "createdAt": "2026-09-29T07:53:46.079Z"
+    },
+    {
+      "id": "saved_alruaxd9",
+      "userId": "usr_quoqnart",
+      "jobId": "job_3zatyjmj",
+      "notes": "Top target company",
+      "createdAt": "2026-09-29T07:54:13.451Z"
+    },
+    {
+      "id": "saved_bmnc9rxc",
+      "userId": "usr_grml15hy",
+      "jobId": "job_3zatyjmj",
+      "notes": "Top target company",
+      "createdAt": "2026-09-29T08:15:08.751Z"
+    },
+    {
+      "id": "saved_irlgr54n",
+      "userId": "usr_3ldzklib",
+      "jobId": "job_3zatyjmj",
+      "notes": "Top target company",
+      "createdAt": "2026-09-29T08:30:53.379Z"
+    },
+    {
+      "id": "saved_koindngi",
+      "userId": "usr_gi80i40a",
+      "jobId": "job_c4o9m247",
+      "notes": "Top target company",
+      "createdAt": "2026-10-15T09:34:01.288Z"
+    }
+  ],
+  "cvs": [
+    {
+      "id": "cv_gb68euqy",
+      "userId": "usr_qtww0sd3",
+      "fullName": "Alex Student",
+      "email": "alex_1790668419835@university.edu",
+      "phone": "+44 7123 456789",
+      "location": "London, UK",
+      "summary": "Passionate Computer Science student seeking software engineering internships.",
+      "education": [
+        {
+          "institution": "Imperial College London",
+          "qualification": "BSc Computing",
+          "startDate": "2023",
+          "endDate": "2026",
+          "description": "First-year average: 82%"
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "certifications": [],
+      "projects": [],
+      "interests": [],
+      "updatedAt": "2026-09-29T07:53:46.130Z"
+    },
+    {
+      "id": "cv_pihxm4jj",
+      "userId": "usr_quoqnart",
+      "fullName": "Alex Student",
+      "email": "alex_1790668452748@university.edu",
+      "phone": "+44 7123 456789",
+      "location": "London, UK",
+      "summary": "Passionate Computer Science student seeking software engineering internships.",
+      "education": [
+        {
+          "institution": "Imperial College London",
+          "qualification": "BSc Computing",
+          "startDate": "2023",
+          "endDate": "2026",
+          "description": "First-year average: 82%"
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "certifications": [],
+      "projects": [],
+      "interests": [],
+      "updatedAt": "2026-09-29T07:54:13.498Z"
+    },
+    {
+      "id": "cv_0wu9uo4c",
+      "userId": "usr_grml15hy",
+      "fullName": "Alex Student",
+      "email": "alex_1790669708279@university.edu",
+      "phone": "+44 7123 456789",
+      "location": "London, UK",
+      "summary": "Passionate Computer Science student seeking software engineering internships.",
+      "education": [
+        {
+          "institution": "Imperial College London",
+          "qualification": "BSc Computing",
+          "startDate": "2023",
+          "endDate": "2026",
+          "description": "First-year average: 82%"
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "certifications": [],
+      "projects": [],
+      "interests": [],
+      "updatedAt": "2026-09-29T08:15:08.805Z"
+    },
+    {
+      "id": "cv_uu8op0ru",
+      "userId": "usr_3ldzklib",
+      "fullName": "Alex Student",
+      "email": "alex_1790670650946@university.edu",
+      "phone": "+44 7123 456789",
+      "location": "London, UK",
+      "summary": "Passionate Computer Science student seeking software engineering internships.",
+      "education": [
+        {
+          "institution": "Imperial College London",
+          "qualification": "BSc Computing",
+          "startDate": "2023",
+          "endDate": "2026",
+          "description": "First-year average: 82%"
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "certifications": [],
+      "projects": [],
+      "interests": [],
+      "updatedAt": "2026-09-29T08:30:53.411Z"
+    },
+    {
+      "id": "cv_dbea05kc",
+      "userId": "usr_pjw59onb",
+      "fullName": "Alex Student",
+      "email": "alex_1792056688377@university.edu",
+      "phone": "+44 7123 456789",
+      "location": "London, UK",
+      "summary": "Passionate Computer Science student seeking software engineering internships.",
+      "education": [
+        {
+          "institution": "Imperial College London",
+          "qualification": "BSc Computing",
+          "startDate": "2023",
+          "endDate": "2026",
+          "description": "First-year average: 82%"
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "certifications": [],
+      "projects": [],
+      "interests": [],
+      "updatedAt": "2026-10-15T09:31:28.899Z"
+    },
+    {
+      "id": "cv_i64wri2k",
+      "userId": "usr_gi80i40a",
+      "fullName": "Alex Student",
+      "email": "alex_1792056840851@university.edu",
+      "phone": "+44 7123 456789",
+      "location": "London, UK",
+      "summary": "Passionate Computer Science student seeking software engineering internships.",
+      "education": [
+        {
+          "institution": "Imperial College London",
+          "qualification": "BSc Computing",
+          "startDate": "2023",
+          "endDate": "2026",
+          "description": "First-year average: 82%"
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "certifications": [],
+      "projects": [],
+      "interests": [],
+      "updatedAt": "2026-10-15T09:34:01.316Z"
+    },
+    {
+      "id": "cv_c96pag2n",
+      "userId": "usr_ox7nt7fg",
+      "fullName": "Ntando",
+      "email": "rntandoradebe14@gmail.com",
+      "phone": "+27 733310402",
+      "location": "",
+      "summary": "Motivated and curious final-year Computer Systems Engineering student with a strong interest in technology and problem-solving. I enjoy learning new skills, taking on challenges, and working both independently and in teams. Seeking an internship opportunity where I can grow and gain real-world experience in a professional environment. Fully ready for mandatory 12-month WIL training.",
+      "education": [
+        {
+          "institution": "Tshwane university of technology",
+          "qualification": "Diploma in Computer Systems engineering",
+          "startDate": "2021",
+          "endDate": "2026",
+          "description": ""
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "programming",
+        "embedded systems",
+        "electronics"
+      ],
+      "certifications": [],
+      "projects": [],
+      "interests": [],
+      "updatedAt": "2026-10-15T09:41:08.681Z"
+    }
+  ],
+  "reminders": [
+    {
+      "id": "rem_eissklxi",
+      "userId": "usr_qtww0sd3",
+      "title": "Follow up with recruiter",
+      "dueDate": "2026-09-30T07:53:46.140Z",
+      "reminderType": "FOLLOW_UP",
+      "applicationId": "app_wm5trpsh",
+      "isCompleted": true,
+      "createdAt": "2026-09-29T07:53:46.146Z"
+    },
+    {
+      "id": "rem_9q0huco9",
+      "userId": "usr_quoqnart",
+      "title": "Follow up with recruiter",
+      "dueDate": "2026-09-30T07:54:13.507Z",
+      "reminderType": "FOLLOW_UP",
+      "applicationId": "app_e5lbmf8a",
+      "isCompleted": true,
+      "createdAt": "2026-09-29T07:54:13.515Z"
+    },
+    {
+      "id": "rem_76w3pa0g",
+      "userId": "usr_grml15hy",
+      "title": "Follow up with recruiter",
+      "dueDate": "2026-09-30T08:15:08.828Z",
+      "reminderType": "FOLLOW_UP",
+      "applicationId": "app_cfl8htj9",
+      "isCompleted": true,
+      "createdAt": "2026-09-29T08:15:08.833Z"
+    },
+    {
+      "id": "rem_ugkg4xwc",
+      "userId": "usr_3ldzklib",
+      "title": "Follow up with recruiter",
+      "dueDate": "2026-09-30T08:30:53.431Z",
+      "reminderType": "FOLLOW_UP",
+      "applicationId": "app_qzp34typ",
+      "isCompleted": true,
+      "createdAt": "2026-09-29T08:30:53.436Z"
+    },
+    {
+      "id": "rem_rkr4d49b",
+      "userId": "usr_pjw59onb",
+      "title": "Follow up with recruiter",
+      "dueDate": "2026-10-16T09:31:28.908Z",
+      "reminderType": "FOLLOW_UP",
+      "applicationId": "app_h84m5wic",
+      "isCompleted": true,
+      "createdAt": "2026-10-15T09:31:28.912Z"
+    },
+    {
+      "id": "rem_munay6eo",
+      "userId": "usr_gi80i40a",
+      "title": "Follow up with recruiter",
+      "dueDate": "2026-10-16T09:34:01.321Z",
+      "reminderType": "FOLLOW_UP",
+      "applicationId": "app_5h59dwdw",
+      "isCompleted": true,
+      "createdAt": "2026-10-15T09:34:01.324Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_xnc5it86",
+      "userId": "usr_qtww0sd3",
+      "title": "Application Status: Google",
+      "message": "Your application for Software Engineering Intern - 2025 at Google was updated to \"INTERVIEW\".",
+      "type": "STATUS_CHANGE",
+      "isRead": false,
+      "createdAt": "2026-09-29T07:53:45.720Z"
+    },
+    {
+      "id": "notif_ewvgvfpt",
+      "userId": "usr_quoqnart",
+      "title": "Application Status: Google",
+      "message": "Your application for Software Engineering Intern - 2025 at Google was updated to \"INTERVIEW\".",
+      "type": "STATUS_CHANGE",
+      "isRead": false,
+      "createdAt": "2026-09-29T07:54:13.399Z"
+    },
+    {
+      "id": "notif_kgvdh53j",
+      "userId": "usr_grml15hy",
+      "title": "Application Status: Google",
+      "message": "Your application for Software Engineering Intern - 2025 at Google was updated to \"INTERVIEW\".",
+      "type": "STATUS_CHANGE",
+      "isRead": false,
+      "createdAt": "2026-09-29T08:15:08.727Z"
+    },
+    {
+      "id": "notif_6jywy9rs",
+      "userId": "usr_3ldzklib",
+      "title": "Application Status: Google",
+      "message": "Your application for Software Engineering Intern - 2025 at Google was updated to \"INTERVIEW\".",
+      "type": "STATUS_CHANGE",
+      "isRead": false,
+      "createdAt": "2026-09-29T08:30:53.359Z"
+    },
+    {
+      "id": "notif_aeyrqvu1",
+      "userId": "usr_pjw59onb",
+      "title": "Application Status: Google",
+      "message": "Your application for Software Engineering Intern - 2025 at Google was updated to \"INTERVIEW\".",
+      "type": "STATUS_CHANGE",
+      "isRead": true,
+      "createdAt": "2026-10-15T09:31:28.819Z"
+    },
+    {
+      "id": "notif_ffvuy2h3",
+      "userId": "usr_qtww0sd3",
+      "title": "Follow-up Suggestion: Taxtalente.de",
+      "message": "It has been over 14 days since you applied for Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de. Consider reaching out with a polite follow-up.",
+      "type": "FOLLOW_UP",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:31:29.009Z"
+    },
+    {
+      "id": "notif_kxp3waey",
+      "userId": "usr_quoqnart",
+      "title": "Follow-up Suggestion: Taxtalente.de",
+      "message": "It has been over 14 days since you applied for Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de. Consider reaching out with a polite follow-up.",
+      "type": "FOLLOW_UP",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:31:29.013Z"
+    },
+    {
+      "id": "notif_dl1io665",
+      "userId": "usr_grml15hy",
+      "title": "Follow-up Suggestion: Taxtalente.de",
+      "message": "It has been over 14 days since you applied for Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de. Consider reaching out with a polite follow-up.",
+      "type": "FOLLOW_UP",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:31:29.016Z"
+    },
+    {
+      "id": "notif_nf5d18z5",
+      "userId": "usr_3ldzklib",
+      "title": "Follow-up Suggestion: Taxtalente.de",
+      "message": "It has been over 14 days since you applied for Steuerberater (m/w/d) in Schopfheim, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€ at Taxtalente.de. Consider reaching out with a polite follow-up.",
+      "type": "FOLLOW_UP",
+      "isRead": false,
+      "createdAt": "2026-10-15T09:31:29.019Z"
+    },
+    {
+      "id": "notif_nz9lm8df",
+      "userId": "usr_gi80i40a",
+      "title": "Application Status: Google",
+      "message": "Your application for Software Engineering Intern - 2025 at Google was updated to \"INTERVIEW\".",
+      "type": "STATUS_CHANGE",
+      "isRead": true,
+      "createdAt": "2026-10-15T09:34:01.247Z"
+    }
+  ],
+  "notificationPreferences": [
+    {
+      "id": "np_z1o9v5n8",
+      "userId": "usr_qtww0sd3",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_v4rcbd12",
+      "userId": "usr_hk6r6n42",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_uydzvul7",
+      "userId": "usr_hmj8o0yz",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_f237611i",
+      "userId": "usr_quoqnart",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_b0jzqfg6",
+      "userId": "usr_4vwqscjx",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_imsnfi6o",
+      "userId": "usr_grml15hy",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_hbmiyr6i",
+      "userId": "usr_wmv2qjb6",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_825tdyql",
+      "userId": "usr_3ldzklib",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_xp2cfat9",
+      "userId": "usr_inrb8rky",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_s6sm0cwm",
+      "userId": "usr_pjw59onb",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_sgklkh40",
+      "userId": "usr_wwg63p3i",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_j50r9p9t",
+      "userId": "usr_gi80i40a",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_1tlmw0ns",
+      "userId": "usr_7km5eofi",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    },
+    {
+      "id": "np_wy9cpkjz",
+      "userId": "usr_ox7nt7fg",
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "jobAlerts": true,
+      "interviewReminders": true,
+      "applicationReminders": true,
+      "statusChangeNotifications": true
+    }
+  ],
+  "jobSearchPreferences": [
+    {
+      "id": "jsp_yynecqpd",
+      "userId": "usr_qtww0sd3",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_djierdsy",
+      "userId": "usr_hk6r6n42",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_ew9jmpen",
+      "userId": "usr_hmj8o0yz",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_25m1ths8",
+      "userId": "usr_quoqnart",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_iqhk3map",
+      "userId": "usr_4vwqscjx",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_f437moi1",
+      "userId": "usr_grml15hy",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_29x1uecb",
+      "userId": "usr_wmv2qjb6",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_6m3unriq",
+      "userId": "usr_3ldzklib",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_p41rueky",
+      "userId": "usr_inrb8rky",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_hu8eabjy",
+      "userId": "usr_pjw59onb",
+      "keywords": "Frontend Developer",
+      "desiredRoles": "",
+      "location": "Cape Town",
+      "jobType": "INTERNSHIP",
+      "isRemote": true
+    },
+    {
+      "id": "jsp_xne9cbea",
+      "userId": "usr_wwg63p3i",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_5hnwpb7i",
+      "userId": "usr_gi80i40a",
+      "keywords": "Frontend Developer",
+      "desiredRoles": "",
+      "location": "Cape Town",
+      "jobType": "INTERNSHIP",
+      "isRemote": true
+    },
+    {
+      "id": "jsp_9n0mxhpl",
+      "userId": "usr_7km5eofi",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    },
+    {
+      "id": "jsp_9ir5m40u",
+      "userId": "usr_ox7nt7fg",
+      "keywords": "",
+      "desiredRoles": "",
+      "location": "",
+      "jobType": "INTERNSHIP",
+      "isRemote": false
+    }
+  ]
+}

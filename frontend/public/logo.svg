@@ -1,0 +1,35 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="publogo-bg" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E2230" />
+      <stop offset="100%" stop-color="#111318" />
+    </linearGradient>
+    <linearGradient id="publogo-border" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#818CF8" />
+      <stop offset="50%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <linearGradient id="publogo-cap" x1="20" y1="20" x2="80" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#4F46E5" />
+    </linearGradient>
+    <linearGradient id="publogo-arrow" x1="20" y1="80" x2="85" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="88" height="88" rx="24" fill="url(#publogo-bg)" stroke="url(#publogo-border)" stroke-width="3" />
+
+  <path d="M50 20L78 33L50 46L22 33Z" fill="url(#publogo-cap)" />
+  <path d="M74 37V48C74 48 68 57 50 57C32 57 26 48 26 48V37" stroke="#818CF8" stroke-width="2.5" stroke-linecap="round" opacity="0.8" />
+
+  <path d="M24 78C34 72 46 60 62 42L80 22" stroke="url(#publogo-arrow)" stroke-width="4.5" stroke-linecap="round" />
+  <path d="M66 22H80V36" stroke="url(#publogo-arrow)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <circle cx="26" cy="76" r="3.5" fill="#38BDF8" />
+  <circle cx="40" cy="65" r="3.5" fill="#818CF8" />
+  <circle cx="56" cy="49" r="3.5" fill="#A855F7" />
+  <circle cx="78" cy="24" r="5" fill="#38BDF8" stroke="#FFFFFF" stroke-width="1.5" />
+</svg>
